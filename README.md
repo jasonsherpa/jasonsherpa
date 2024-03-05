@@ -1,4 +1,4 @@
-Welcome to Jason Sherpa's GitHub Repository
+Welcome!
 
 👋 Hello there! I'm Jason Sherpa a recent graduate with a Bachelor's degree in Management Information Systems (MIS). This GitHub repository is a space where I share my projects and contribute to the awesome world of technology.
 
