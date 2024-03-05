@@ -4,7 +4,9 @@ Welcome to Jason Sherpa's GitHub Repository
 
 About Me
 🎓 Education: Bachelor's degree in Management Information Systems
+
 💼 Current Status: Customer service representative 
+
 🌐 Location: Seattle, WA area
 
 Skills:
